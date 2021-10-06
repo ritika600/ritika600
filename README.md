@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika600&label=Profile%20views&color=0e75b6&style=flat" alt="ritika600" /> </p>
 
-- 🔭 I’m currently working on **React project**
+- 🔭 I’m currently working on **Data structures**
 
 - 🌱 I’m currently learning **MERN**
 
