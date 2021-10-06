@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ritika600&label=Profile%20views&color=0e75b6&style=flat" alt="ritika600" /> </p>
 
-- 🔭 I’m currently working on **Data structures**
+- 🔭 I’m currently working on **React Project**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Data structures**
 
 - 📫 How to reach me **jawaritika24@gmail.com**
 
