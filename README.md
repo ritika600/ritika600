@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jawaritika24@gmail.com**
 
-- 📄 Know about my experiences [https://novoresume.com/editor/resume/224992a0-d355-11eb-a4aa-1b1d1e9867ed](https://novoresume.com/editor/resume/224992a0-d355-11eb-a4aa-1b1d1e9867ed)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1X_CPpRbA_JQq7rtpl8sxdNtN8BLc-igQ/view?usp=sharing)
 
 - ⚡ Fun fact **I love to dance**
 
